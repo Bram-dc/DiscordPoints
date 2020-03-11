@@ -1,0 +1,22 @@
+{
+  "name": "Nasty Knights",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.0.1",
+    "mysql": "^2.18.1",
+	"rcon": "^1.0.3"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Bram_dc",
+  "license": "ISC",
+  "description": "Nasty Knights PvP Discord Listener"
+}
